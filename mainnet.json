@@ -13,7 +13,7 @@
     "ethPoWForkBlock": 0,
     "ethash": {}
   },
-  "difficulty": "1",
+  "difficulty": "0x80000",
   "gasLimit": "8000000",
   "alloc": {
     "0xf49082ae0e22910818386240A801d87173Cf8076": { "balance": "1000000000000000000000000000" }
